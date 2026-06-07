@@ -67,3 +67,6 @@ Include header `X-API-Key: cc-api-key-placeholder` with all requests.
 
 ## Rate Limit
 100 requests per minute per IP.
+
+## Postman
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://raw.githubusercontent.com/BT-Builds/cc-validator/main/postman_collection.json)
